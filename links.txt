@@ -23,3 +23,7 @@ media/images/websites/2/Voodoo-0002-Large.jpg
 media/wysiwyg/s1.jpg
 media/wysiwyg/s2.jpg
 media/wysiwyg/s3.jpg
+
+
+
+http://nunakidz.com/demo/bigstore/furniture/index.php
