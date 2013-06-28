@@ -1,0 +1,207 @@
+@import url(//fonts.googleapis.com/css?family=PT+Sans);
+body {
+	color:#666666;
+}
+a { color:#818181; text-decoration:none; }
+h1,h2,h3,h4,h5,h6,#wide-menu #nav > li > a, #wide-menu #nav ul.level0 > li > a, #default-menu #nav li.active a, #default-menu #nav li a,.home-gallery-price,.iosSlider .slider .item .text1 span,.block-title strong,.left-categories .block-title span,.block-viewed .regular-price .price,.regular-price .price,.special-price .price,.product-view .box-up-sell h2,.footer-info .newsletter-box .form-subscribe-header,.shipping-info-content  {
+	font-family:'PT Sans',sans-serif;
+}
+h1,h2,h3,h4,h5,h6,.block-title strong {
+	color:#111111;
+}
+a:hover,.top-dropdown li,.top-dropdown a:hover,.top-header .welcome-msg,.block-tags .actions a:hover,.price-box .price,.regular-price,.regular-price .price,.minimal-price-link .price,.product-name a:hover,#wide-menu #nav ul li a:hover,#default-menu #nav ul	li a:hover,#default-menu #nav ul li.active a,#default-menu #nav ul li.active ul li a:hover,.dropdown .text,.header .mini-cart .shopping-cart .price,.left-categories .block-title span,.block-viewed .regular-price .price,.sorter .sort-by ul li a.active,.sorter .limiter ul li a.active,.block-account .block-content li.current,.block-account .block-content li a:hover {
+	color:#faba01;  /* d74340; */
+}
+#default-menu #nav ul li a:hover,.focus {
+	color:#faba01 !important; /* d74340; */
+}
+#default-menu #nav li.over a,
+#default-menu #nav li a:hover {
+	background:#faba01; /* d74340; */
+}
+.button,button,.pager .pages a.next,.pager .pages a.previous,.header .form-search button.button,#home-gallery-custom span,.iosSlider .slider .item .text1,.iosSlider .slider .item .text2,.iosSliderButtons .selected,a.slider-arrows:hover,.block-tags .block-content .tags-list a:hover,.products-grid .btn-cart,.products-list .btn-cart,.product-tabs a:hover,.product-tabs li.active a,.product-tabs li.active a:hover,.footer-info .newsletter-box .input-box button.button,#wide-menu #nav > li:hover > a,#default-menu #nav li a:hover,.slider-arrows1 .direction-nav a:hover ,a.wishlist:hover,a.compare:hover,.home-gallery a.prev:hover ,.home-gallery a.next:hover,.itemslider-thumbnails .direction-nav a:hover,#toTop,#default-menu #nav li.active a,#wide-menu #nav > li.active > a{
+ 	background-color:##faba01; /* d74340; */
+ }
+ .direction-nav a:hover{background-color:#faba01 !important;}
+ .pager .pages a:hover, .pager .pages .current,.header .form-search button.button,.footer-info .newsletter-box .input-box button.button{
+ 	border-color:#faba01;
+}
+.pager .pages a.next {
+	border:1px solid #faba01;
+}
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover,.ch-info  {background-color:#faba01 }
+.mini-cart,#empty_cart_button,.btn-update,.btn-continue  {
+	color:#666666;
+}
+#empty_cart_button:hover,.btn-update:hover,.btn-continue:hover {
+	color:#faba01;
+}
+#cboxClose:hover,#cboxNext:hover,#cboxPrevious:hover{background-color:#faba01;}
+.wrapper {
+    background:transparent;
+}
+.page {
+    background:transparent;
+}
+.content-head {
+ background:#faba01;
+}
+.top-header-container {
+	background:#262729;
+	border-top: #faba01 solid 0px; /* d74341 */
+	border-bottom: #faba01 solid 2px; /* d74341 */
+}
+.top-header {
+	background:transparent;
+}
+.dropdown p.label {
+	color:#999999;
+}
+.top-header .links a {
+	color:#818181;
+}
+.dropdown p.text,.top-header .welcome-msg,.top-header .links a:hover {
+	color:#faba01;
+}
+.top-dropdown ul {
+	background:#ffffff;
+}
+.top-dropdown ul li a {
+	color:#818181;
+}
+.top-dropdown ul li a:hover,.top-dropdown ul li.selected {
+	color:#faba01;
+}
+/*
+.header-container {
+	background:#ffffff url(http://nunakidz.com/demo/bigstore/media/theming/websites/2/body.gif) repeat  scroll left top;
+}*/
+.header {
+	background:transparent;
+	color:#999999;
+}
+a.mini-cart-title {
+	color:#818181;
+}
+a.mini-cart-title:hover,.shopping-cart .price {
+	color:#faba01 !important;
+}
+.header .form-search button.button {
+	background-color:#faba01;
+	border-color:#faba01;
+}
+.header .mini-cart .block-content {
+	background:#ffffff;
+	color:#999999;
+}
+.header .mini-cart .block-content a {
+	color:#818181;
+}
+.header .mini-cart .block-content a:hover {
+	color:#faba01;
+}
+.nav-container {
+	background:#faba01;
+}
+.nav-container {
+    background-color:rgb(0,0,0); /* rgb(215,67,64); */
+	background-color: transparent\9;
+	background-color:rgba(0,0,0,0.7); /* rgba(215,67,64,0.9); */
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#b29b0e11,endColorstr=#b29b0e11);
+	zoom: 1;
+}
+.nav-container:nth-child(n) {
+	filter: none;
+}
+.nav-inner,.mobi-nav {
+	background:transparent;
+	padding-top:10;
+	padding-bottom:10;
+}
+#nav {
+	background:transparent;
+ 	border-top: #faba01 solid 0px;
+	border-bottom: #faba01 solid 0px;	
+}
+#wide-menu #nav > li.active > a,#default-menu #nav li.active a,#wide-menu #nav > li.active > a:hover,#default-menu #nav li.active a:hover,#wide-menu #nav > li.active:hover > a,#default-menu #nav li.active a:hover,.mobi-nav h1  {	
+    background-color:#faba01; /* f9817f; */
+    color:#ffffff;
+}
+.mobi-nav h1 span {color:#ffffff;}
+#wide-menu #nav > li > a,#default-menu #nav > li > a {
+	color:#fff;
+}
+#wide-menu #nav > li:hover > a,#default-menu #nav li a:hover {
+	color:#ffffff;
+	background-color:#f9817f;
+}
+#default-menu #nav li.over a,
+#default-menu #nav li a:hover {
+	color:#ffffff;
+	background-color:#faba01;  /* #f9817f; */ /* colore di sfondo x hover barra menù */
+}
+.content-head {min-height: 50px;}
+#default-menu #nav li a,#wide-menu #nav > li > a,.menu-logo {line-height: 50px;}
+#default-menu #nav ul,#default-menu #nav div,#wide-menu #nav ul.level0 {
+	top: 50px;
+}
+.flexslider,.menu-margin {margin-top:50px;}
+.static-slider-content,.menu-padding {padding-top:50px;}
+/*
+.main-container,.home-gallery-container,.home-content-container,.footer-info-container {
+		background:#ffffff url(http://nunakidz.com/demo/bigstore/media/theming/websites/2/body_2.gif) repeat  scroll left top;
+}*/
+.main {
+		background:transparent;
+		color:#999999;
+}
+.home-content,.home-gallery,.footer-info {
+	background:transparent;
+}
+.main a {
+	color:#818181}
+.main a:hover {
+	color:#faba01}
+h1,h2,h3,h4,h5,h6,.block-title strong,.block .block-subtitle,.product-view .product-shop .product-name h1,.product-view .box-up-sell h2,.page-title h1, .page-title h2,.product-view .box-tags .form-add label,.home-content h3.title {
+	color:#111111}
+a:hover,.block-tags .actions a:hover,.price-box .price,.regular-price,.regular-price .price,.minimal-price-link .price,.product-name a:hover,.left-categories .block-title span,.block-viewed .regular-price .price,.block-account .block-content li.current,.block-account .block-content li a:hover  {
+	color:#faba01;
+}
+.button,button,.pager .pages a.next,.pager .pages a.previous,.block-tags .block-content a:hover,.products-grid .btn-cart,.products-list .btn-cart,.product-tabs a:hover,.product-tabs li.active a,.product-tabs li.active a:hover,.slider-arrows1 .direction-nav a:hover,a.wishlist:hover,a.compare:hover,.home-gallery a.next:hover,.home-gallery a.prev:hover,.itemslider-thumbnails .direction-nav a:hover{
+ 	background-color:#faba01;
+ }
+.direction-nav a:hover{background-color:#faba01;}
+
+ .pager .pages a:hover, .pager .pages .current {
+ 	border-color:#faba01;
+}.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {background-color:#faba01 }
+#empty_cart_button,.btn-update,.btn-continue {
+	color:#999999;
+}
+#empty_cart_button:hover,.btn-update:hover,.btn-continue:hover {
+	color:#faba01;
+}
+#cboxClose:hover,#cboxNext:hover,#cboxPrevious:hover{background-color:#faba01;}
+.footer-container {
+		background:#262729;
+}
+.footer-aditional,.social-links h4,.payment-methods h4 {
+		background:#262729;
+		color:#ffffff;
+}
+.footer-container a {
+	color:#ffffff}
+.footer-container a:hover {
+	color:#faba01}
+.bottom-menu-column h4 {
+	color:#faba01}
+.footer-container .border-top {border-top:#111111 solid 0px} 
+.copyright-footer {}
+.footer{
+		background:transparent;
+		color:#ffffff;
+}
+.footer a {
+	color:#ffffff}
+.footer a:hover {
+	color:#818181}
